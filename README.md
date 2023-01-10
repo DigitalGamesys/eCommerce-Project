@@ -1,30 +1,44 @@
-# 🛍 Ecommerce Store with Netlify Functions and Stripe
+# Anon - An eCommerce Website
 
-> A serverless function to process stripe payments with Nuxt, Netlify, and Lambda
+![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
+![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
+[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-Demo site is here: [E-Commerce Store](https://ecommerce-netlify.netlify.com/)
+Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-![screenshot of site](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/ecommerce-screenshot.jpg "E-Commerce Netlify Site")
+## Demo
 
-There are two articles explaining how this site is set up:
-* Explanation of Netlify Functions and Stripe: [Let's Build a JAMstack E-Commerce Store with Netlify Functions](https://css-tricks.com/lets-build-a-jamstack-e-commerce-store-with-netlify-functions/)
-* Explanation of dynamic routing in Nuxt for the individual product pages: [Creating Dynamic Routes in Nuxt Application](https://css-tricks.com/creating-dynamic-routes-in-a-nuxt-application/)
+![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-## Build Setup
+## Prerequisites
 
-``` bash
-# install dependencies
-$ yarn install or npm run install
+Before you begin, ensure you have met the following requirements:
 
-# serve with hot reload at localhost:3000
-$ yarn dev or npm run dev
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-# build for production and launch server
-$ yarn build or npm run build
-$ yarn start or npm run start
+## Installing Anon
 
-# generate static project
-$ yarn generate or npm run generate
+To install **Anon**, follow these steps:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+```
+
+## Contact
+
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+## License
+
+This project is **free to use** and does not contains any license.
